@@ -1,0 +1,2 @@
+class BookView:
+    pass
