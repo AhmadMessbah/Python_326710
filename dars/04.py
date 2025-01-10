@@ -11,8 +11,9 @@ def test2():
 x = 3
 
 test1()
-test2()
+
 
 print(x)
 
 
+# Jadid
